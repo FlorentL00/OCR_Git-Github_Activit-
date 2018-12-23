@@ -1,1 +1,1 @@
-// Voici la methode TempératureConvertion
+// Voici la methode TemperatureConversion
